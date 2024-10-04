@@ -1,1 +1,1 @@
-# Atividade da disciplina INTERNET DAS COISAS 
+# Atividades da disciplina INTERNET DAS COISAS 
